@@ -5,8 +5,11 @@
 
 ### Description of app:
 #### Purpose
+
 #### Functionality / features
+
 #### Target audience
+This app is designed for managers and/or employees who do inventory of their stock.
 
 #### Tech stack
  - Front-end App: React
