@@ -12,10 +12,23 @@
 This app is designed for managers and/or employees who do inventory of their stock.
 
 #### Tech stack
- - Front-end App: React
- - Back end app: ExpressJS
- - Database: MongoDB
-
+ - Front-end App: 
+    - React
+ - Back end app: 
+    - ExpressJS
+ - Database
+    - MongoDB Atlas
+ - Project Management & Collaboration tools:
+    - Discord
+        - team communication
+    - Trello
+        - project management
+    - Github Organisation
+        - to organise repositories 
+    - Figma
+        - Wireframes
+    - Diagrams
+        - app.diagrams.net
 ----
 ### User Stories
 
