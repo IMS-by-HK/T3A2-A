@@ -10,9 +10,11 @@
 #### Functionality / features
 
 #### Target audience
+
 This app is designed for managers and/or employees who do inventory of their stock.
 
 #### Tech stack
+
  - Front-end App: 
     - React
  - Back end app: 
@@ -56,9 +58,3 @@ Edit Item: As a Manager or Employee, I want to be able to edit a product, so tha
 Log-in: As a Manager or Employee, I want to be able to log-in securely, so that I can make sure only administrators can access the dashboard and products listed.
 
 -----
-
-To go in docs folder:
-- Dataflow Diagram
-- Application Architecture Diagram
-- Wireframes
-- Screenshots of trello
