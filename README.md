@@ -6,6 +6,7 @@
 ### Description of app:
 #### Purpose
 
+
 #### Functionality / features
 
 #### Target audience
@@ -30,6 +31,16 @@ This app is designed for managers and/or employees who do inventory of their sto
     - Diagrams
         - app.diagrams.net
 ----
+
+### App Architecture Diagram
+
+![APD](/docs/Diagrams/app-architechure-diagram.png)
+
+### Dataflow Diagram
+
+![DD](/docs/Diagrams/Dataflow%20Diagram.png)
+
+
 ### User Stories
 
 Features for the IMS include: Search, Filter, Add Item, Edit Item and Log-in
