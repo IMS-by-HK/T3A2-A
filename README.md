@@ -6,6 +6,9 @@
 ### Description of app:
 #### Purpose
 
+The Inventory Management System (IMS) is designed to streamline the process of tracking and managing inventory for businesses of any size. It allows users to efficiently manage product details such as name, price, quantity, category, and unique ID through a user-friendly interface.
+
+The system consists of a ReactJS front-end for seamless interaction, ExpressJS APIs for handling product management, and MongoDB Atlas for scalable and reliable data storage. This app simplifies inventory management by providing an organized and efficient platform to reduce errors, save time, and optimize business operations.
 
 #### Functionality / features
 
