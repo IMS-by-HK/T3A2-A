@@ -56,6 +56,16 @@ This app is designed for managers and/or employees who do inventory of their sto
 
 ![DD](/docs/Diagrams/Dataflow%20Diagram.png)
 
+### Wireframes
+
+##### Desktop Wireframes
+
+![DW](/docs/Wireframes/Desktop%20Wireframes.png)
+
+##### Mobile Wireframes
+
+![MW](/docs/Wireframes/Mobile%20Wireframes.png)
+
 
 ### User Stories
 
