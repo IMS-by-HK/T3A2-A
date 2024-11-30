@@ -82,3 +82,9 @@ Edit Item: As a Manager or Employee, I want to be able to edit a product, so tha
 Log-in: As a Manager or Employee, I want to be able to log-in securely, so that I can make sure only administrators can access the dashboard and products listed.
 
 -----
+
+### Trello Screenshots
+![Trello Screenshot 1](/docs/Trello%20Screenshots/Screenshot%202024-11-17%20at%206.33.23 PM.png)
+![[Trello Screenshot 2]](/docs/Trello%20Screenshots/Screenshot%202024-11-26%20at%207.57.53 PM.png)
+![[Trello Screenshot 3]](/docs/Trello%20Screenshots/Screenshot%202024-11-26%20at%208.06.14 PM.png)
+![[Trello Screenshot 4]](/docs/Trello%20Screenshots/Screenshot%202024-11-30%20at%203.44.01 PM.png)
