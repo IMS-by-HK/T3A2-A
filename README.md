@@ -12,6 +12,17 @@ The system consists of a ReactJS front-end for seamless interaction, ExpressJS A
 
 #### Functionality / features
 
+- Login Page
+- Search Products
+- Displays Searched Product/s
+- Sorted Products
+- Displays Products Information Such As:
+  - Price
+  - Quantity
+  - Category
+  - ID
+- Create, Update, Edit and Delete Products
+
 #### Target audience
 
 This app is designed for managers and/or employees who do inventory of their stock.
